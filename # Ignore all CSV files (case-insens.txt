@@ -1,0 +1,4 @@
+# Ignore all CSV files (case-insensitive)
+*.csv
+*.CSV
+*.Csv
